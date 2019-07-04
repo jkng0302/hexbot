@@ -1,0 +1,7 @@
+GET /hexbot
+
+{
+  "colors": [
+    {"value": "#aaaaaa"}
+  ]
+}
